@@ -1,1 +1,1 @@
-lynx
+lynx https://lite.duckduckgo.com
